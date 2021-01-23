@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://wa.me/6283141283130" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=otakudesuShoko&show_icons=true&theme=radical)
+
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=otakudesuShoko&layout=compact&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=catuserbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=SaitamaRobot&theme=nightowl)

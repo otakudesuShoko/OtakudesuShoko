@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=otakudesuShoko&layout=compact&theme=nightowl)
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=catuserbot&theme=dark)
-
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=SaitamaRobot&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=TG-ShortLinkBot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=EmiliaHikari&theme=nightowl)

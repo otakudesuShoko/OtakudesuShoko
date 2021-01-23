@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 📫 Feel free to contact me anytime
-[<img src="https://img.shields.io/badge/Telegram-%40myarfine-blue">](https://t.me/Hyoneechan)
+[<img src="https://img.shields.io/badge/Telegram-%40Hyoneechan-blue">](https://t.me/Hyoneechan)
 <a href="https://www.instagram.com/wa.bot" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/RiskiCa56839553" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://wa.me/6283141283130" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>

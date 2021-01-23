@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hello, Im [otakudesuShoko](https://instagram.com/wa.bot) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 
 :page_with_curl: I'm currently learning:
 

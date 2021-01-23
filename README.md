@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=catuserbot&theme=dark)
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=SaitamaRobot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=TG-ShortLinkBottheme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=TG-ShortLinkBot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=EmiliaHikari&theme=nightowl)

@@ -29,12 +29,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/wa.bot" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/RiskiCa56839553" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://wa.me/6283141283130" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=otakudesuShoko&show_icons=true&theme=radical)
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=otakudesuShoko&layout=compact&theme=nightowl)
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=catuserbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=SaitamaRobot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=TG-ShortLinkBot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=otakudesuShoko&repo=EmiliaHikari&theme=nightowl)
